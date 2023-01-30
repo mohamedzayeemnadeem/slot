@@ -91,6 +91,8 @@ Execute the program
 # OUPUT
 ![timetable](https://user-images.githubusercontent.com/119476069/215517877-175bd6fd-9169-4859-aa24-4a25284fb94d.png)
 
+# Result
+The timetable is creared successfully
 
 
 
